@@ -16,6 +16,9 @@ body {
   max-height: 100vh;
   max-width: 100vw;
   overflow: hidden;
+  background-image: url('../public/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .Toastify__toast-theme--dark {
